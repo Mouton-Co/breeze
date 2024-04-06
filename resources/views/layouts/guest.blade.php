@@ -18,7 +18,7 @@
 
 <body class="bg-gray-50 font-sans antialiased">
     <div class="flex h-screen w-full justify-center">
-        <div class="w-full max-w-screen-lg pt-6">
+        <div class="w-full max-w-screen-lg pt-6 px-2">
             <div class="flex w-full items-center justify-between">
                 <x-icon.logo class="aspect-square w-16 text-blue-400" />
                 <span class="text-xs text-slate-400">
